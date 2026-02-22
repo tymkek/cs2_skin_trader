@@ -1,1 +1,5 @@
 .env
+src/config/
+src/__pycache__/
+*.pyc
+__pycache__/
